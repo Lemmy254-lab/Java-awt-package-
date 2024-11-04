@@ -8,8 +8,6 @@ This repository contains examples and projects demonstrating the use of the Abst
 - [Examples](#examples)
   - [Simple AWT Frame](https://github.com/Lemmy254-lab/Java-awt-package-/blob/main/SimpleAWTFrame.java)
   - [Label and TextField Example](https://github.com/Lemmy254-lab/Java-awt-package-/blob/main/LabelTextFieldExample.java)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 The Java AWT package provides a rich set of classes to create window-based applications. This repository includes various examples showcasing different AWT components and their functionalities.
